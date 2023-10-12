@@ -44,9 +44,6 @@ This repository contains my solutions to various problems on HackerRank, categor
 
 - [Subdomains]
 
-### [Your preferred languages]
-
-- [Subdomains]
 
 ## Contributing :raised_hands:
 
@@ -60,6 +57,4 @@ If you have a better solution, new problems to add, or any other suggestions, fe
 
 Please make sure to follow the [Contributor Covenant](CONTRIBUTING.md) code of conduct.
 
-## License :page_facing_up:
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
