@@ -42,9 +42,18 @@ This repository contains my solutions to various problems on HackerRank, categor
 
 ### C :
 
-|  Subdomain   |                                     Challenge                                      |                                                       Solution                                                       | Video Explaination |
-| :----------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :----------------: |
+|  Subdomain   |                                     Challenge                                      |                                               Solution                                                | Video Explaination |
+| :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :----------------: |
 | Introduction | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [helloWorld.c](https://github.com/M3nnoun/Hackerrank-Solutions/blob/main/C/Introduction/helloWorld.c) |                    |
+
+### Linux Shell :
+
+| Subdomain |                                                  Challenge                                                  |                                                         Solution                                                          | Video Explaination |
+| :-------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------: |
+|   Bash    |            [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)             |               [echo.sh](https://github.com/M3nnoun/Hackerrank-Solutions/blob/main/Linux-Shell/Bash/echo.sh)               |                    |
+|   Bash    | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [loopingAndSkipping.sh](https://github.com/M3nnoun/Hackerrank-Solutions/blob/main/Linux-Shell/Bash/loopingAndSkipping.sh) |                    |
+|   Bash    |  [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)  |   [personalizedEcho.sh](https://github.com/M3nnoun/Hackerrank-Solutions/blob/main/Linux-Shell/Bash/personalizedEcho.sh)   |                    |
+|   Bash    | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) |   [personalizedEcho.sh](https://github.com/M3nnoun/Hackerrank-Solutions/blob/main/Linux-Shell/Bash/personalizedEcho.sh)   |                    |
 
 ## Contributing :raised_hands:
 
