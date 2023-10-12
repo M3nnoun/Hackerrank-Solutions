@@ -1,15 +1,15 @@
-# HackerRank Solutions
+# HackerRank Solutions :rocket:
 
-This repository contains my solutions to various problems on HackerRank. These solutions are meant for reference and learning purposes. Please do not copy and paste them directly for your own submissions, as this violates the HackerRank Honor Code.
+This repository contains my solutions to various problems on HackerRank, categorized by programming languages and HackerRank subdomains. These solutions are meant for reference and learning purposes. Please do not copy and paste them directly for your own submissions, as this violates the HackerRank Honor Code. :warning:
 
-## Contents
+## Contents :book:
 
 - [Problem Categories](#problem-categories)
 - [Languages Used](#languages-used)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Problem Categories
+## Problem Categories :file_folder:
 
 - [Data Structures](data-structures)
 - [Algorithms](algorithms)
@@ -17,16 +17,41 @@ This repository contains my solutions to various problems on HackerRank. These s
 - [SQL](sql)
 - [Other](other)
 
-## Languages Used
+## Languages Used :computer:
 
-- Python
-- Java
-- C++
-- [Your preferred languages]
+### Java :
 
-## Contributing
+|          Subdomain          |                                                         Challenge                                                       		 		|                                                                                                Solution                                                                                                                               				 		|				 	  Video Explaination					   |
+|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+|        Introduction         | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                		 		| [JavaStdinAndStdoutI.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaStdinAndStdoutI.java)           			 		| 														       |
+|        Introduction         | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                                      		 		| [JavaIfElse.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaIfElse.java)				         				 		    | 														       |
+|        Introduction         | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)                                     		 		| [JavaStdinAndStdoutII.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaStdinAndStdoutII.java)       				 		| 														       |
+|        Introduction         | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)                                  		 		| [JavaOutputFormatting.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaOutputFormatting.java)        			 		    | 														       |
+|        Introduction         | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)                                                      		 		| [JavaLoopsI.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaLoopsI.java)                           				 		| 	 													       |
+|        Introduction         | [Java Loops II](https://www.hackerrank.com/challenges/java-loops)                                                       		 		| [JavaLoopsII.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaLoopsII.java)                         				 		|       											           |
+|        Introduction         | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)                                                  		 		| [JavaDatatypes.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaDatatypes.java)                      			 			|       											           |
+|        Introduction         | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)                                              		 		| [JavaEndOfFile.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaEndOfFile.java)                      			 			|       											           |
+|        Introduction         | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)            		 		| [JavaStaticInitializerBlock.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaStaticInitializerBlock.java)         		|       											           |
+|        Introduction         | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)           					    		 		| [JavaIntToString.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaIntToString.java)        						 	 		|       											           |
+|        Introduction         | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)           					    		 		| [JavaDateAndTime.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/introduction/JavaDateAndTime.java)        						 	 		|       											           |
+|        Introduction         | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)           								| [JavaCurrencyFormatter.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/strings/JavaCurrencyFormatter.java)        			 	 		|       											           |
 
-If you have a better solution, new problems to add, or any other suggestions, feel free to create a pull request.
+
+### Python :
+
+- [Subdomains]
+  
+### C :
+
+- [Subdomains]
+
+### [Your preferred languages]
+
+- [Subdomains]
+
+## Contributing :raised_hands:
+
+If you have a better solution, new problems to add, or any other suggestions, feel free to create a pull request. :sparkles:
 
 1. Fork this repository.
 2. Create a new branch for your feature or improvement.
@@ -36,6 +61,6 @@ If you have a better solution, new problems to add, or any other suggestions, fe
 
 Please make sure to follow the [Contributor Covenant](CONTRIBUTING.md) code of conduct.
 
-## License
+## License :page_facing_up:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
