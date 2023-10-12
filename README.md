@@ -42,8 +42,9 @@ This repository contains my solutions to various problems on HackerRank, categor
 
 ### C :
 
-- [Subdomains]
-
+|  Subdomain   |                                     Challenge                                      |                                                       Solution                                                       | Video Explaination |
+| :----------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :----------------: |
+| Introduction | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [helloWorld.c](https://github.com/M3nnoun/Hackerrank-Solutions/blob/main/Java/Introduction/javaStdinAndStdoutI.java) |                    |
 
 ## Contributing :raised_hands:
 
@@ -56,5 +57,3 @@ If you have a better solution, new problems to add, or any other suggestions, fe
 5. Create a pull request.
 
 Please make sure to follow the [Contributor Covenant](CONTRIBUTING.md) code of conduct.
-
-
