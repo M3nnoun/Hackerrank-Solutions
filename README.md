@@ -44,7 +44,7 @@ This repository contains my solutions to various problems on HackerRank, categor
 
 |  Subdomain   |                                     Challenge                                      |                                                       Solution                                                       | Video Explaination |
 | :----------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :----------------: |
-| Introduction | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [helloWorld.c](https://github.com/M3nnoun/Hackerrank-Solutions/blob/main/Java/Introduction/javaStdinAndStdoutI.java) |                    |
+| Introduction | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [helloWorld.c](https://github.com/M3nnoun/Hackerrank-Solutions/blob/main/C/Introduction/helloWorld.c) |                    |
 
 ## Contributing :raised_hands:
 
